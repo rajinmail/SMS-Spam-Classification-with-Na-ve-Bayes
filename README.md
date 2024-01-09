@@ -14,7 +14,7 @@ pip install pandas scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/sms-spam-classification.git
+git clone https://github.com/rajinmail/sms-spam-classification.git
 cd sms-spam-classification
 ```
 
